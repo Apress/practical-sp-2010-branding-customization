@@ -1,0 +1,23 @@
+.ms-profilepicture{
+text-align: center;
+word-wrap: normal;
+}
+.ms-profilepicture img{
+vertical-align: middle;
+height: auto;
+border: 1px solid #C5C7C9;
+background-color: #ffffff;
+padding: 2px; 
+}
+.ms-largethumbnailimage{
+width: 148px;
+line-height: 148px;   
+}
+.ms-largethumbnailimage img{
+max-width: 148px;   
+}
+.ms-contactcardpicture{
+margin-right: 8px;
+margin-top: 6px;
+margin-bottom: 6px;
+}

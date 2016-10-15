@@ -1,0 +1,5 @@
+.s4-titlelogo{
+padding:12px 10px 12px 0px;
+text-align:center;
+vertical-align:middle;
+}

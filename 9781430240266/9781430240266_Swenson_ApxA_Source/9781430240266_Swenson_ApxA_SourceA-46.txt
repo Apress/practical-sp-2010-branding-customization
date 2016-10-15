@@ -1,0 +1,5 @@
+.ms-socialNotif-text{
+color:#5d6878;
+display:block;
+padding-bottom:1px;
+}

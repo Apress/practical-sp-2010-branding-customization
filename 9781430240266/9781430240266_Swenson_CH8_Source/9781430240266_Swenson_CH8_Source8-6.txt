@@ -1,0 +1,6 @@
+.ms-dialog  #s4-ribbonrow{
+background-color: #FFF;
+}
+.ms-dialog .s4-ribboncont{
+background-image: none;
+}

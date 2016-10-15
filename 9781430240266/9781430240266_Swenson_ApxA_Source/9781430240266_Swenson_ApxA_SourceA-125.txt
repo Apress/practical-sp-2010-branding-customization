@@ -1,0 +1,11 @@
+li.ms-searchref-filter,li.ms-searchref-filtermsg{
+padding:4px 20px 4px 5px;
+color:#0072bc;
+margin:1px 0 1px 6px;
+}
+li.ms-searchref-selected,li.ms-searchref-filtermsg{
+background:#fff;
+border-top:#dbddde 1px solid;
+border-bottom:#dbddde 1px solid;
+border-left:#dbddde 1px solid;
+}

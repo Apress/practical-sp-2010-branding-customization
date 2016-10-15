@@ -1,0 +1,5 @@
+.srch-maintop{
+clear:both;
+padding:8px 0 40px;
+max-width:670px;
+}

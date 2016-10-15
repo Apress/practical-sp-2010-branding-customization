@@ -1,0 +1,4 @@
+.ms-profilepageheader{
+border-right: 1px solid #91cdf2;
+background-color: #f8fcff;
+}

@@ -1,0 +1,9 @@
+.ms-socialNotif-Container{
+font-family:"Segoe UI",Tahoma,Verdana,sans-serif;
+font-size:1em;
+width:120px;
+overflow-x:auto;
+overflow-y:hidden;
+padding:0px 3px;
+text-align:right;
+}

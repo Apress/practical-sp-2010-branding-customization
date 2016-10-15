@@ -1,0 +1,8 @@
+.ms-dlgTitle{
+background:url("/_layouts/images/bgximg.png") repeat-x -0px -51px;
+background-color:#21374c;
+height:32px;
+white-space:nowrap;
+cursor:default;
+overflow:hidden;
+}

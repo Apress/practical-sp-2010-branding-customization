@@ -1,0 +1,7 @@
+.srch-maincontent-seperator{
+border-color:#b6babf;
+border-style:solid;
+border-width:0 0 1px;
+height:1px;
+width:100%;
+}

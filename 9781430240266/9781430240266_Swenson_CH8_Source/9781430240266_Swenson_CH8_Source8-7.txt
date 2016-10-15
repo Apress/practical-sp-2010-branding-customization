@@ -1,0 +1,39 @@
+.ms-dlgOverlay{
+filter:alpha(opacity=50);
+-ms-filter:"alpha(opacity=50)";
+opacity:0.5;
+background-color:#030;
+}
+.ms-dlgContent{
+border: none;
+border-top: 8px #030 solid;
+}
+.ms-dlgBorder{
+border: none;
+}
+.ms-dlgTitle{
+background-image: none;
+background-color: transparent;
+height: 45px;
+}
+.ms-dlgTitleText{
+margin-top: 5px;
+margin-left: 7px;
+font-family: Arial, sans-serif;
+font-size: 16pt;
+color: #444;
+font-weight: bold;
+text-transform:uppercase;
+letter-spacing: -.8pt;
+}
+.ms-dlgTitle{
+background-image: none;
+background-color: transparent;
+height: 40px;
+}
+.ms-dialog  #s4-ribbonrow{
+background-color: #FFF;
+}
+.ms-dialog .s4-ribboncont{
+background-image: none;
+}

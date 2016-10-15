@@ -1,0 +1,1 @@
+<SharePoint:CssRegistration name="PortalName_Search.CSS" After="corev4.css" runat="server"/>

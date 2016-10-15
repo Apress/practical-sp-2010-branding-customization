@@ -1,0 +1,3 @@
+.ms-WPHeader{
+background-color:#FFFFFF;
+}

@@ -1,0 +1,4 @@
+.srch-Metadata2{
+color:#666;
+margin-left:24px;
+}

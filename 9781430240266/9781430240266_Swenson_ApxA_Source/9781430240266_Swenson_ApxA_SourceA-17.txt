@@ -1,0 +1,10 @@
+div.ms-MenuUIPopupScreen div.ms-MenuUIPopupInner ul.ms-MenuUIUL a span.ms-MenuUIIconLarge{
+height:40px;
+width:40px;
+}
+.ms-MenuUIIcon,.ms-MenuUIIconLarge{
+padding:0px 6px 0px 2px;
+}
+div.ms-MenuUIPopupScreen div.ms-MenuUIPopupInner ul.ms-MenuUIUL a img.ms-MenuUIULImg{
+border-style:none;
+}

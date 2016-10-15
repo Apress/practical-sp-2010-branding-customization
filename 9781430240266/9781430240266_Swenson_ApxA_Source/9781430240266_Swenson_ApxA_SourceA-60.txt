@@ -1,0 +1,13 @@
+td.ms-sbgo img{
+vertical-align:bottom;
+border:1px solid #b6babf !important;
+border-left:none !important;
+}
+.s4-search .srch-gosearchimg{
+background:url("/_layouts/images/bgximg.png") repeat-x -0px -511px;
+border:1px solid #e3e3e3 !important;
+border-left:none !important;
+background-color:#fff;
+height:19px;
+padding:0 !important;
+}

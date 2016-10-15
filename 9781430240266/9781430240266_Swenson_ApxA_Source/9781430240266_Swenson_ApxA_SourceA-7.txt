@@ -1,0 +1,11 @@
+.ms-cui-tts,.ms-cui-tts-scale-1,.ms-cui-tts-scale-2{
+display:block;
+float:left;
+white-space:nowrap;
+height:44px;
+overflow-y:hidden;
+overflow-x:hidden;
+margin:0px 0px -1px 0px;
+padding:0px;
+list-style-type:none;
+}

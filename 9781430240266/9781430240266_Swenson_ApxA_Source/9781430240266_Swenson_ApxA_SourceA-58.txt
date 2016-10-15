@@ -1,0 +1,26 @@
+td.ms-sbscopes{
+border:none !important;
+padding-right:10px;
+}
+select.ms-sbscopes{
+font-family:verdana,tahoma,sans-serif;
+font-size:1.3em;
+width:170px;
+border:thin solid #dbddde;
+vertical-align:middle;
+}
+.s4-search select{
+height:21px;
+font-family:Verdana,Arial,sans-serif;
+font-size:9pt;
+padding:0 3px;
+margin:3px 3px 0 0;
+}
+.s4-search select.ms-sbscopes,.s4-search input.ms-sbplain{
+border:1px solid #e3e3e3 !important;
+color:#476382;
+margin-top:0;
+}
+.s4-search select.ms-sbscopes{
+padding:0 0 2px;
+}

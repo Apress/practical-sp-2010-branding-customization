@@ -1,0 +1,11 @@
+.ms-sbtable{
+color:#000;
+font-family:verdana,tahoma,sans-serif;
+font-style:normal;
+font-weight:normal;
+}
+.s4-search .ms-sbtable-ex{
+float:right;
+margin-right:2px;
+margin-top:2px;
+}

@@ -1,0 +1,18 @@
+/* Inline CSS on SPAN */
+width: 32px;
+height: 32px;
+overflow: hidden;
+display: inline-block;
+position: relative;
+
+/* Inline CSS on I Like It IMG */
+left: 0px !important; 
+top: -132px !important; 
+border: none; 
+position: absolute;
+
+/* Inline CSS on Tags & Notes IMG */
+left: 0px !important; 
+top: -300px !important; 
+border: none; 
+position: absolute;

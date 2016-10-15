@@ -1,0 +1,6 @@
+#s4-leftpanel{ 
+display: none; 
+}
+.s4-ca{ 
+margin-left: 0px; 
+}

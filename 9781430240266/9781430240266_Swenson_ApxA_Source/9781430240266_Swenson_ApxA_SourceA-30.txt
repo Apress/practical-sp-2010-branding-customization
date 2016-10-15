@@ -1,0 +1,11 @@
+body #s4-workspace{
+overflow:visible !important;
+width:auto !important;
+height:auto !important;
+}
+body #s4-workspace{
+overflow-y:scroll;
+overflow-x:auto;
+position:relative;
+left:0px;
+}

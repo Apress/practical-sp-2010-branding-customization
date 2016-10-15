@@ -1,0 +1,4 @@
+.s4-trc-container-menu{
+float:left;
+margin:12px 3px;
+}

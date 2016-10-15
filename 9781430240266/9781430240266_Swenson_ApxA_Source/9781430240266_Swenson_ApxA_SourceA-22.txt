@@ -1,0 +1,23 @@
+.s4-breadcrumb-menu{
+max-width:400px;
+min-width:142px;
+padding:1px 15px 5px 1px;
+word-wrap:break-word;
+-ms-word-wrap:break-word;
+overflow-x:hidden;
+border:1px solid;
+font-size:8pt;
+}
+.v4master .s4-breadcrumb-menu{
+background:url("/_layouts/images/selbg.png") repeat-x left top;
+-color:#f8f8f8;
+border-color:#94989f;
+}
+
+/* Inline CSS on DIV */
+left: 89px; 
+top: 40px; 
+display: none; 
+visibility: visible; 
+position: absolute; 
+z-index: 1002;

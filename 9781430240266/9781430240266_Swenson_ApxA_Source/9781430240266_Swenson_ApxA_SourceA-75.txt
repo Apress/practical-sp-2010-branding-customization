@@ -1,0 +1,10 @@
+.s4-specialNavLinkList a{
+display:block;
+padding:3px 4px 3px 10px;
+color:#3b4f65;
+}
+/* Inline CSS on fgimg.png IMG */
+left: 0px !important; 
+top: -428px !important; 
+border: none; 
+position: absolute;

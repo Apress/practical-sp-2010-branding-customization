@@ -1,0 +1,12 @@
+#s4-bodyContainer{
+width: 960px !important;
+margin: 0px auto;
+}
+.ms-titlerowborder, 
+#s4-leftpanel-content{
+border: none !important;
+}
+#s4-topheader2{
+border-radius: 10px;
+padding-left: 10px;
+}

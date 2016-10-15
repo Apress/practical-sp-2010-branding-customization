@@ -1,0 +1,3 @@
+.ms-dlgBorder{
+border:1px solid #0072bc;
+}

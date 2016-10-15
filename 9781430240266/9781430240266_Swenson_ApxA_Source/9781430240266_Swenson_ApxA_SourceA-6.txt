@@ -1,0 +1,7 @@
+.ms-cui-TabRowLeft,.ms-cui-QATRowCenter{
+float:left;
+}
+.ms-cui-TabRowLeft{
+margin-top:19px;
+font-size:0px;
+}

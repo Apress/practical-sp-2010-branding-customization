@@ -1,0 +1,1 @@
+<SharePoint:CssRegistration name="<% $SPUrl:~sitecollection/Style Library/client/portal_main.css %>" After="corev4.css" runat="server"/>

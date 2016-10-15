@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/" >
+  <FeatureSiteTemplateAssociation
+   Id="82afeb5e-994c-4a8d-b511-46864a697b72"
+   TemplateName="SPSMSITEHOST#0"/>
+  <FeatureSiteTemplateAssociation
+  Id="82afeb5e-994c-4a8d-b511-46864a697b72"
+  TemplateName="SPSPERS#0"/>
+</Elements>

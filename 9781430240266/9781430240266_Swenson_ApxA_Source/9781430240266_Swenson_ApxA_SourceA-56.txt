@@ -1,0 +1,5 @@
+.s4-search table{
+width:212px;
+float:left;
+margin-right:17px;
+}

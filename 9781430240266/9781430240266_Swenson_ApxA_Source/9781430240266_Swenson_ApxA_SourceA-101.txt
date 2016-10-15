@@ -1,0 +1,9 @@
+.ms-postcalendardateboxtop{
+margin-top:5px;
+background:#0072bc url("/_layouts/images/calTopBkgd.png") repeat-x bottom left;
+width:75px;
+height:13px;
+border:1px solid;
+border-color:#00558d #004572 #003d66 #00558d;
+margin-right:7px;
+}

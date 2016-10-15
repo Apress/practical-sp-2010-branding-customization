@@ -1,0 +1,4 @@
+.ms-WPHeader td,.ms-fakewptitle{
+border-bottom:1px solid #EBEBEB;
+border-collapse:collapse;
+}

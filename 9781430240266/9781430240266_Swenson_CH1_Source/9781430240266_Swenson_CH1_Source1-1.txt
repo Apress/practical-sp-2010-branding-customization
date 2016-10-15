@@ -1,0 +1,3 @@
+.s4-search, .ms-sbtable, .ms-sbscopes{
+color: red;
+}

@@ -1,0 +1,11 @@
+.s4-ql ul.root > li > .menu-item,.s4-qlheader,.s4-qlheader:visited{
+font-size:1.2em;
+color:#0072bc;
+margin:0px;
+padding:3px 4px 3px 10px;
+border-width:1px 0px;
+border-style:solid;
+border-color:transparent;
+word-wrap:break-word;
+overflow-x:hidden;
+}

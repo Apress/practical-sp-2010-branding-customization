@@ -1,0 +1,7 @@
+.ms-MenuUILabel,.ms-MenuUILabelRtL,.ms-menuuilabelcompact,.ms-menuuilabelcompactRtl{
+font-size:8pt;
+width:100%;
+}
+.ms-MenuUILabel{
+padding:2px 0px 3px 6px;
+}

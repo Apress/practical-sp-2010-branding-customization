@@ -1,0 +1,10 @@
+.ms-siteactionsmenu > span > a{
+color:#fff;
+}
+.ms-siteactionsmenu > span > a > span{
+display:inline-block;
+margin:1px 0px 0px 2px;
+}
+.ms-siteactionsmenuinner .ms-menu-a,.ms-siteactionsmenuhover .ms-menu-a{
+margin-right:4px;
+}

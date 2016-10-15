@@ -1,0 +1,40 @@
+.srch-Page{
+color:#666;
+font-size:1em;
+font-family:verdana,tahoma,sans-serif;
+padding:0.7em 0 7em 48px;
+clear:both;
+}
+.srch-Page A:link,.srch-Page A:visited{
+border:1px solid transparent;
+color:#1D71B6 !important;
+font-size:1.1em;
+font-weight:normal;
+margin:0 3px;
+padding:4px 7.5px;
+text-decoration:none;
+float:left;
+display:block;
+}
+.srch-Page STRONG{
+border-top:solid 1px #c6e5f8;
+border-right:solid 1px #91cdf2;
+border-left:solid 1px #91cdf2;
+-bottom:solid 1px #91cdf2;
+font-size:1.1em;
+margin:0 3px;
+padding:4px 7.5px;
+background:url("/_layouts/images/selbg.png") repeat-x left top;
+background-color:#ccebff;
+text-decoration:none;
+float:left;
+display:block;
+font-weight:normal;
+}
+.srch-Page-img a:link,.srch-Page-img a:visited{
+border:none;
+padding-left:4px;
+padding-right:4px;
+background:none;
+border-top:1px solid transparent;
+}

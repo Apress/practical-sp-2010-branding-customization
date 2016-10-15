@@ -1,0 +1,9 @@
+body #s4-ribbonrow{
+min-height:43px;
+background-color:#21374c;
+overflow-y:hidden;
+}
+@media print{
+body #s4-ribbonrow{
+display:none;
+}

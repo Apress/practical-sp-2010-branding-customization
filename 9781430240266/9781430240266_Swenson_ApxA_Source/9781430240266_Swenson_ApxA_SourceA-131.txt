@@ -1,0 +1,6 @@
+.srch-Description2{
+font-size:1em;
+color:#000;
+margin-left:24px;
+max-width:575px;
+}

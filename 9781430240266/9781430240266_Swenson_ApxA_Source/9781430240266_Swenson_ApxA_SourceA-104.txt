@@ -1,0 +1,16 @@
+.ms-PostTitle{
+font-size:16pt;
+padding-top:0px;
+width:600px;
+word-wrap:break-word;
+overflow-x:hidden;
+}
+.ms-PostTitle span{
+position:relative;
+left:-2px;
+right:auto;
+}
+.ms-PostTitle a{
+color:#4c4c4c;
+text-decoration:none;
+}

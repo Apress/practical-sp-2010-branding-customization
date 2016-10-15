@@ -1,0 +1,1 @@
+<SharePoint:DelegateControl runat="server" ControlId="GlobalNavigation" />

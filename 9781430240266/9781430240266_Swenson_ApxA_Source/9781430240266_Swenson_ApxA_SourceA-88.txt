@@ -1,0 +1,5 @@
+.ms-WPBorder,.ms-WPBorderBorderOnly{
+border-color:#9ac6ff;
+border-width:1px;
+border-style:solid;
+}

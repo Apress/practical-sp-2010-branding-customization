@@ -1,0 +1,4 @@
+body #s4-ribboncont{
+padding:0px;
+background:url("/_layouts/images/bgximg.png") repeat-x -0px -565px;
+}

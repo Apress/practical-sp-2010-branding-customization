@@ -1,0 +1,15 @@
+.s4-search select.ms-sbscopes,.s4-search input.ms-sbplain{
+border:1px solid #e3e3e3 !important;
+color:#476382;
+margin-top:0;
+}
+.s4-search input.ms-sbplain{
+font-size:1.1em;
+border-right:0 !important;
+width:191px !important;
+background:url("/_layouts/images/bgximg.png") repeat-x -0px -511px;
+border:1px solid #e3e3e3 !important;
+background-color:#fff;
+height:17px;
+padding:2px 3px 0;
+}

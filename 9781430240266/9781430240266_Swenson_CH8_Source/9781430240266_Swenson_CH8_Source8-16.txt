@@ -1,0 +1,17 @@
+#s4-bodyContainer{
+width: 960px !important;
+margin: 0px auto;
+}
+#s4-workspace{
+background: url(/_layouts/images/clientname/sharepoint2010.png) no-repeat center center,
+url(/_layouts/images/clientname/contentbgrepeat.png) repeat-x top left, 
+url(/_layouts/images/clientname/contentbg.jpg) no-repeat top left,;
+background-size: auto, auto, cover;
+}
+.s4-ca{
+background-color: transparent;
+}
+.ms-WPBody{
+background-color: rgba(255, 255, 255, .7);
+padding: 10px;
+}

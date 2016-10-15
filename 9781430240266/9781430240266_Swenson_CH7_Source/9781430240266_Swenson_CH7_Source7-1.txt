@@ -1,0 +1,15 @@
+.ms-cui-cg-i{display: none;}
+
+body #s4-ribbonrow{min-height: 23px; height: auto; margin-bottom: -20px;}
+
+.ms-cui-topBar2{height: 23px;}
+
+.ms-cui-tts{height: 24px;}
+
+.ms-cui-tt, .ms-cui-cg{height: 22px;}
+
+.ms-cui-TabRowLeft{margin-top: 0px;}
+
+.ms-cui-tt-a{margin-top: 0px;}
+
+.s4-trc-container-menu{margin: 3px 0px 0px 0px;}

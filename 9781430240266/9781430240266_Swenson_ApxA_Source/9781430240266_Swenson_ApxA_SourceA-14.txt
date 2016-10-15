@@ -1,0 +1,7 @@
+.ms-viewselector-arrow{
+background-image: url(/_layouts/images/fgimg.png) !important;
+background-position: -1px 381px;
+}
+.ms-viewselector-arrow img{
+visibility: hidden;
+}

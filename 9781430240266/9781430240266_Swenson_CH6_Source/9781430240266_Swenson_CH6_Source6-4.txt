@@ -1,0 +1,2 @@
+<Meetings:CustomToolPaneManager runat="server" __MarkupType="vsattributemarkup" WebPart="true" Height="" Width="" __WebPartId="{FB6ACB46-6C56-4562-AEF3-964203B651AE}" id="g_fb6acb46_6c56_4562_aef3_964203b651ae"/>
+<Meetings:PropertyBag runat="server"/>

@@ -1,0 +1,6 @@
+.ms-siteactionsmenu .ms-viewselector-arrow IMG{
+position: absolute;
+left: 0px !important; 
+top: -491px !important; 
+border: none; 
+}

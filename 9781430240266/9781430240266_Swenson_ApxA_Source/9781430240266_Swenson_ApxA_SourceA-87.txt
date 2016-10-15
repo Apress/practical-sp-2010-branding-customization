@@ -1,0 +1,8 @@
+.ms-WPBody{
+font-size:8pt;
+font-family:verdana,arial,helvetica,sans-serif;
+}
+.ms-wpContentDivSpace{
+margin-left:5px;
+margin-right:5px;
+}

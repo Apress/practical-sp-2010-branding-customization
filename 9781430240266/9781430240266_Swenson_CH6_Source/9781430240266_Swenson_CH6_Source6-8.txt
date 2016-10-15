@@ -1,0 +1,41 @@
+<table cellpadding="4" cellspacing="0" border="0" width="100%">
+	<tr>
+		<td valign="top" style="padding:0">
+			<table cellpadding="4" cellspacing="0" border="0" width="100%" height="100%">
+				<tr>
+					<td id="_invisibleIfEmpty" name="_invisibleIfEmpty" colspan="3" valign="top"> 
+						<WebPartPages:WebPartZone runat="server" Title="Top Left" ID="TopLeft"><ZoneTemplate></ZoneTemplate></WebPartPages:WebPartZone>
+					</td>
+				</tr>
+				<tr>
+					<td width="100%" colspan="3" valign="top" style="padding:0">
+						<table cellpadding="4" cellspacing="0" width="100%" height="100%">
+							<tr>
+								<td id="_invisibleIfEmpty" name="_invisibleIfEmpty" valign="top"> 
+									<WebPartPages:WebPartZone runat="server" Title="Middle Left" ID="MiddleLeft"><ZoneTemplate></ZoneTemplate></WebPartPages:WebPartZone>
+								</td>
+								<td id="_invisibleIfEmpty" name="_invisibleIfEmpty" valign="top"> 
+									<WebPartPages:WebPartZone runat="server" Title="Middle Right" ID="MiddleRight"><ZoneTemplate></ZoneTemplate></WebPartPages:WebPartZone>
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+				<tr>
+					<td id="_invisibleIfEmpty" name="_invisibleIfEmpty" colspan="3" valign="top"> 
+						<WebPartPages:WebPartZone runat="server" Title="Bottom Left" ID="BottomLeft"><ZoneTemplate></ZoneTemplate></WebPartPages:WebPartZone>
+					</td>
+				</tr>
+			</table>
+		</td>
+		<td id="_invisibleIfEmpty" name="_invisibleIfEmpty" valign="top" height="100%"> 
+			<WebPartPages:WebPartZone runat="server" Title="Top Right" ID="TopRight" Orientation="Vertical"><ZoneTemplate></ZoneTemplate></WebPartPages:WebPartZone>
+		</td>
+	</tr>
+	<tr>
+		<td id="_invisibleIfEmpty" name="_invisibleIfEmpty" colspan="3" valign="top" height="100%"> 
+			<WebPartPages:WebPartZone runat="server" Title="Bottom" ID="Bottom" Orientation="Vertical"><ZoneTemplate></ZoneTemplate></WebPartPages:WebPartZone>
+		</td>
+	</tr>
+	<script language="javascript">if(typeof(MSOLayout_MakeInvisibleIfEmpty) == "function") {MSOLayout_MakeInvisibleIfEmpty();}</script>
+</table>

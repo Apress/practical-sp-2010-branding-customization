@@ -1,0 +1,3 @@
+.s4-title-inner{
+min-height:64px;
+}

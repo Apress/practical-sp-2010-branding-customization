@@ -1,0 +1,6 @@
+.ms-dlgContent{
+position:absolute;
+background-color:#ffffff;
+display:none;
+border:1px solid #161d25;
+}

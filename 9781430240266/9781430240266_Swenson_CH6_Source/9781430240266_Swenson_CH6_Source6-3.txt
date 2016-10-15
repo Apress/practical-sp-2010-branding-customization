@@ -1,0 +1,18 @@
+<SharePoint:MenuItemTemplate runat="server" id="MenuItem_AddPages"
+	Text="<%$Resources:wss,siteactions_addpages%>"
+	Description="<%$Resources:wss,siteactions_addpagesdescription%>"
+	MenuGroupId="400"
+	Sequence="410"
+	UseShortId="true"
+	ClientOnClickScript = "javascript:MtgTlPart_ShowToolPane('1');"
+	PermissionsString="AddAndCustomizePages"
+	PermissionMode="Any" />
+<SharePoint:MenuItemTemplate runat="server" id="MenuItem_ManagePages"
+	Text="<%$Resources:wss,siteactions_managepages%>"
+	Description="<%$Resources:wss,siteactions_managepagesdescription%>"
+	MenuGroupId="400"
+	Sequence="420"
+	UseShortId="true"
+	ClientOnClickScript = "javascript:MtgTlPart_ShowToolPane('2');"
+	PermissionsString="AddAndCustomizePages"
+	PermissionMode="Any" />

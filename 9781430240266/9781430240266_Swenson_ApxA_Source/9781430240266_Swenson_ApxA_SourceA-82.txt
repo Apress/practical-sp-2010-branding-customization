@@ -1,0 +1,4 @@
+.ms-WPHeader .ms-wpTdSpace{
+width:5px;
+border-bottom:1px solid transparent;
+}

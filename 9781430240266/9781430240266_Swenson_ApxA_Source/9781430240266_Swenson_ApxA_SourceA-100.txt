@@ -1,0 +1,4 @@
+.ms-leftblogdate{
+width:75px;
+padding-right:10px;
+}

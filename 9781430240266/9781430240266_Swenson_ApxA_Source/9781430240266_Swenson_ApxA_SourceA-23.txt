@@ -1,0 +1,16 @@
+.s4-breadcrumb-top{
+display:block;
+margin-bottom:5px;
+margin-right:-15px;
+padding:5px;
+border-bottom:1px dashed;
+}
+.v4master .s4-breadcrumb-top{
+border-bottom-color:#a7b0ba;
+}
+.s4-breadcrumb-header{
+display:inline;
+}
+.v4master .s4-breadcrumb-header{
+color:#3b4f65;
+}

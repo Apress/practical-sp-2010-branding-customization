@@ -1,0 +1,5 @@
+.ms-siteactionsmenu{
+display:inline-block;
+vertical-align:top;
+font-size:8pt;
+}

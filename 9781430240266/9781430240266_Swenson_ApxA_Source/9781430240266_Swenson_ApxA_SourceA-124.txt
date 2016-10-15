@@ -1,0 +1,6 @@
+.ms-searchref-categoryname{
+padding:1px 3px 7px 11px;
+COLOR:#3b4f65;
+font-size:1.1em;
+height:10px;
+}

@@ -1,0 +1,7 @@
+.ms-blogRightZone{
+width:65px;
+}
+/* Inline CSS */
+width: 165px; 
+overflow-x: hidden; 
+word-wrap: break-word;

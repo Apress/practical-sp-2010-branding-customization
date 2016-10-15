@@ -1,0 +1,10 @@
+.s4-ql ul.root ul > li > a{
+padding:3px 4px 4px 10px;
+border-width:1px 0px;
+border-style:solid;
+border-color:transparent;
+color:#3b4f65;
+overflow-x:hidden;
+display:block;
+zoom:1;
+}

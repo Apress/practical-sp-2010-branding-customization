@@ -1,0 +1,18 @@
+.menu ul,.menu li{
+margin:0;
+padding:0;
+}
+.menu-horizontal li.static,
+.menu-horizontal a.static,
+.menu-horizontal span.static{
+float:left;
+}
+.s4-tn li.static > .menu-item{
+color:#3b4f65;
+white-space:nowrap;
+border:1px solid transparent;
+padding:4px 10px;
+display:inline-block;
+height:15px;
+vertical-align:middle;
+}

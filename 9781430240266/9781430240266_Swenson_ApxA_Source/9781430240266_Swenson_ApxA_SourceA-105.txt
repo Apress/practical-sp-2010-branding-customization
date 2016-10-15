@@ -1,0 +1,9 @@
+.ms-PostFooter,.ms-CommentFooter{
+font-size:8pt;
+color:#666666;
+padding-bottom:22px;
+}
+.ms-PostFooter a,.ms-CommentFooter a{
+:#6c90d8;
+white-space:nowrap;
+}

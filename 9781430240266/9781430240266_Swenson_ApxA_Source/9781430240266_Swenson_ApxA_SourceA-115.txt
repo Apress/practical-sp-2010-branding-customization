@@ -1,0 +1,6 @@
+/* Inline CSS */
+height: 142px; 
+padding-top: 50px; 
+padding-right: 5px; 
+padding-bottom: 0px; 
+min-height: 142px;

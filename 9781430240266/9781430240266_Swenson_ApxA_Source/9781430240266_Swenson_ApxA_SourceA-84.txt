@@ -1,0 +1,15 @@
+.ms-standardheader{
+font-size:1em;
+margin:0em;
+text-align:left;
+color:#525252;
+}
+.ms-WPTitle{
+font-weight:normal;
+font-family:Verdana,Tahoma,sans-serif;
+padding-left:0px;
+padding-right:4px;
+padding-top:4px;
+padding-bottom:5px;
+font-size:10pt;
+}

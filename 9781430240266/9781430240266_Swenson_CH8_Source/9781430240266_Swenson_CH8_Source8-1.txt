@@ -1,0 +1,4 @@
+#s4-bodyContainer{
+width: 960px !important;
+margin: 0px auto;
+}

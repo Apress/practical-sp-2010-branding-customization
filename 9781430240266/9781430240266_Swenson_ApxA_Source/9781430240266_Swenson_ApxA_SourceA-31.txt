@@ -1,0 +1,3 @@
+body #s4-bodyContainer{
+min-width:760px;
+}

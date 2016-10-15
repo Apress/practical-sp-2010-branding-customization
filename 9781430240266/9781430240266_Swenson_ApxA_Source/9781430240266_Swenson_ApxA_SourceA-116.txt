@@ -1,0 +1,22 @@
+.ms-identitypieceleftimagebig{
+background: url("/_layouts/images/mossfgimg.png") no-repeat -0px -32px;
+height:36px; 
+}
+.ms-identitypiecenotebig{
+background: url("/_layouts/images/mossbgximg.png") repeat-x -0px -0px;
+height:20px;
+padding:8px 0px;
+width: 550px;
+position: absolute;
+left: 5px; 
+}
+.ms-identitypiecerightimagebig{
+background: url("/_layouts/images/mossfgimg.png") no-repeat -0px -212px;
+left: 555px;  
+height:36px;
+}
+.ms-identitypiecebottomimagebig{
+background: url("/_layouts/images/mossfgimg.png") no-repeat -0px -0px;
+left: 7px;
+top: 35px; 
+}

@@ -1,0 +1,4 @@
+.menu-horizontal{
+display:table;
+zoom:1;
+}

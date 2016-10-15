@@ -1,0 +1,12 @@
+.ms-WPHeaderTdMenu{
+width:21px;
+cursor:pointer;
+word-wrap:normal;
+white-space:nowrap;
+border:1px solid transparent;
+}
+.ms-WPHeaderTdMenu:hover{
+border:1px solid #91CDF2;
+background:url("/_layouts/images/selbg.png") repeat-x left top;
+background-color:#CCEBFF;
+}

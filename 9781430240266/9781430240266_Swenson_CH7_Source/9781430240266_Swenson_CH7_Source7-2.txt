@@ -1,0 +1,38 @@
+@media print{
+.ms-globallinks,.ms-siteaction,.ms-areaseparatorcorner,.ms-titlearealeft,
+.ms-searchform,.ms-banner,.ms-buttonheightwidth,
+.ms-areaseparatorright,.ms-titlearearight,.ms-rightareacell,.ms-leftareacell,
+.ms-areaseparatorleft{
+display:none;
+}
+}
+
+@media print{
+body #s4-ribbonrow{
+display:none;
+}
+body #s4-titlerow{
+display:block !important;
+}
+body #s4-workspace{
+overflow:visible !important;
+width:auto !important;
+height:auto !important;
+}
+body.v4master{
+overflow:visible !important;
+}
+body #s4-topheader2{
+display:none;
+}
+body #s4-leftpanel{
+display:none;
+}
+.s4-ca{
+margin-left:0px !important;
+margin-right:0px !important;
+}
+.s4-clust{
+display:none !important;
+}
+}

@@ -1,0 +1,6 @@
+.s4-ca{    
+min-height: 0px;
+float:left;
+margin-left: 0px;
+width:980px;
+}

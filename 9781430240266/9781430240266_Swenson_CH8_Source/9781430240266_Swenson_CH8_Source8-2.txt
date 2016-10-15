@@ -1,0 +1,31 @@
+/* Ribbon 980 pixels centered */
+.ms-cui-ribbonTopBars{
+width: 960px !important;
+margin: 0px auto;
+}
+
+/* Removes bottom Line in ribbon */
+.ms-cui-ribbonTopBars > div{
+border:none !important;
+}
+
+/* Fixes width issue and hides borders */
+#s4-titlerow{
+width: auto !important;
+border: none !important;
+}
+
+/* Adds background color behind fixed content area */
+#s4-workspace{
+background-color: #EEE;
+}
+
+/* Header and Content area 960px centered */
+#s4-bodyContainer{
+width: 960px !important;
+margin: 0px auto;
+height: 100%;
+background-color: #FFF;
+border-left: 1px #BBB solid;
+border-right: 1px #BBB solid;
+}

@@ -1,0 +1,5 @@
+.ms-siteactionsmenuhover{
+border-color:#8b929a;
+background:url("/_layouts/images/bgximg.png") repeat-x -0px -489px;
+background-color:#21374c;
+}

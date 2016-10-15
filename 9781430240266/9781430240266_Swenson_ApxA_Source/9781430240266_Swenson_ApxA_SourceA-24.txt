@@ -1,0 +1,13 @@
+.s4-breadcrumbNode,.s4-breadcrumbCurrentNode,.s4-breadcrumbRootNode{
+list-style-type:none;
+padding:0px;
+margin:0px;
+}
+.v4master .s4-breadcrumbNode,
+.v4master .s4-breadcrumbCurrentNode,
+.v4master .s4-breadcrumbRootNode{
+color:#3b4f65;
+}
+ul.s4-breadcrumbNode{
+margin-left:21px;
+}

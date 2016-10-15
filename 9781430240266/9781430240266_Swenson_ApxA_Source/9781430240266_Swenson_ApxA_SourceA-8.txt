@@ -1,0 +1,10 @@
+.ms-cui-TabRowRight,.ms-cui-QATRowRight{
+float:right;
+}
+.ms-cui-TabRowRight{
+margin-top:0px;
+vertical-align:middle;
+}
+.s4-trc-container{
+padding-right:0px;
+}

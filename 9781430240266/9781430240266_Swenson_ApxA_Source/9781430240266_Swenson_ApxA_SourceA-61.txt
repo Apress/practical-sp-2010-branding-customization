@@ -1,0 +1,4 @@
+.s4-help{
+display:inline-block;
+margin:4px 4px 3px 21px;
+}

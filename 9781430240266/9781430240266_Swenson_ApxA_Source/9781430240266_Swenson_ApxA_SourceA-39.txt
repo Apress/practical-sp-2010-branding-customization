@@ -1,0 +1,8 @@
+.s4-titlesep{
+vertical-align:middle;
+}
+/* Inline CSS on IMG */
+left: 0px !important; 
+top: -491px !important; 
+border: none; 
+position: absolute;

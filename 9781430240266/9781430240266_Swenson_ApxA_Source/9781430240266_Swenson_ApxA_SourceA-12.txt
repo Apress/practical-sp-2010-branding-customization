@@ -1,0 +1,8 @@
+.ms-siteactionsmenu .ms-viewselector-arrow{
+display:inline-block;
+margin:7px 0px 1px 0px;
+vertical-align:top;
+}
+.ms-viewselector-arrow{
+vertical-align:middle;
+}

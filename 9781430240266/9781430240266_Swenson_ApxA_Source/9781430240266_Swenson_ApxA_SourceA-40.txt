@@ -1,0 +1,14 @@
+.s4-title h1,.s4-title h2{
+font-size:1.4em;
+font-weight:normal;
+display:inline;
+padding:0px;
+margin:0px;
+}
+.s4-title h1 a,.s4-title h2 a{
+color:#003759;
+display:inline-block;
+}
+.s4-title h2{
+color:#5d6878;
+}

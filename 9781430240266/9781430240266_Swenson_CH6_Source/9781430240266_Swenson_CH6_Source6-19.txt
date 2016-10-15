@@ -1,0 +1,19 @@
+        // Uncomment the method below to handle the event raised after a feature has been activated.
+        public override void FeatureActivated(SPFeatureReceiverProperties properties)
+        {
+            SPWeb currentWeb = properties.Feature.Parent as SPWeb;
+            Uri masterURI = new Uri(currentWeb.Url + "/_catalogs/masterpage/custom_v4.master");
+            currentWeb.MasterUrl = masterURI.AbsolutePath;
+            currentWeb.CustomMasterUrl = masterURI.AbsolutePath;
+            currentWeb.Update();
+        }
+
+        // Uncomment the method below to handle the event raised before a feature is deactivated.
+        public override void FeatureDeactivating(SPFeatureReceiverProperties properties)
+        {
+            SPWeb currentWeb = properties.Feature.Parent as SPWeb;
+            Uri masterURI = new Uri(currentWeb.Url + "/_catalogs/masterpage/v4.master");
+            currentWeb.MasterUrl = masterURI.AbsolutePath;
+            currentWeb.CustomMasterUrl = masterURI.AbsolutePath;
+            currentWeb.Update();
+        }

@@ -1,0 +1,28 @@
+.ms-MenuUIPopupBody{
+border:1px solid;
+border-top-color:#a4aab4;
+border-left-color:#a4aab4;
+border-right-color:#7895ac;
+border-bottom-color:#7895ac;
+margin:0px;
+padding:0px;
+}
+.ms-MenuUIPopupInner{
+border:1px solid;
+border-color:#ececec;
+border-top-color:transparent;
+border-left-color:transparent;
+}
+.ms-MenuUI,.ms-MenuUILarge,.ms-MenuUIRtL,.ms-MenuUILargeRtL
+{
+background-color:#fff;
+background-repeat:repeat-y;
+cursor:pointer;
+}
+.ms-MenuUI,.ms-MenuUILarge{
+background-position:left;
+}
+.ms-MenuUILarge{
+background-image:url("/_layouts/images/MGradLarge.png");
+width:250px;
+}

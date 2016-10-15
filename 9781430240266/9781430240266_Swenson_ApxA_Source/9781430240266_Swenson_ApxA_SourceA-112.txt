@@ -1,0 +1,3 @@
+.ms-contactcardtext3{
+font-family:verdana; 
+}

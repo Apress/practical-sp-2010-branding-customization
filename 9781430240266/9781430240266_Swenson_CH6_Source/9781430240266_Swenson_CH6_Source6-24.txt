@@ -1,0 +1,2 @@
+$personalSites = get-spsite | where {$_.RootWeb.WebTemplate -eq "SPSPERS"}
+foreach ($site in $personalSites) {Enable-SPFeature -Identity "MySiteStapleFeature" -Url $site.Url}

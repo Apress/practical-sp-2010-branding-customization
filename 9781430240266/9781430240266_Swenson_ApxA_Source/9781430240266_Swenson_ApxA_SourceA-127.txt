@@ -1,0 +1,7 @@
+.srch-stats{
+background:#fff !important;
+white-space:normal !important;
+font-family:verdana,tahoma,sans-serif !important;
+color:#3b4f65;
+margin-left:10px;
+}

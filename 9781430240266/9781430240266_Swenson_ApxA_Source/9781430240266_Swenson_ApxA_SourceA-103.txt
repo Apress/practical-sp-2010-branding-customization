@@ -1,0 +1,5 @@
+.ms-rightblogpost{
+word-wrap:break-word;
+overflow-x:hidden;
+width:680px;
+}

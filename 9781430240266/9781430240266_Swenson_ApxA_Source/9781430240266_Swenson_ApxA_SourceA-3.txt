@@ -1,0 +1,3 @@
+body #RibbonContainer.loaded{
+height:auto !important;
+}

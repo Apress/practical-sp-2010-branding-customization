@@ -1,0 +1,10 @@
+.s4-ql,.s4-specialNavLinkList{
+list-style-type:none;
+margin:0px 0px 20px 0px;
+padding:0px;
+}
+.s4-specialNavLinkList{
+margin:0px;
+border-top:1px solid #dbddde;
+padding-top:5px;
+}

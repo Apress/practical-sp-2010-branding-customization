@@ -1,0 +1,5 @@
+.s4-titletext{
+width:100%;
+vertical-align:middle;
+unicode-bidi:embed;
+}

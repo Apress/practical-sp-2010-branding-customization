@@ -1,0 +1,15 @@
+.ms-socialNotif{
+text-align:center;
+vertical-align:top;
+display:inline-block;
+width:48px;
+height:60px;
+overflow:hidden;
+margin:0px 1px;
+padding:0px 2px;
+border:1px solid transparent;
+}
+.ms-socialNotif:hover{
+border:1px solid #f1c43f;
+background-color:#fdeeb3;
+}

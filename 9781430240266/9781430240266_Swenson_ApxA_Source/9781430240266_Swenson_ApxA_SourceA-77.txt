@@ -1,0 +1,7 @@
+.s4-widecontentarea{
+width:100%;
+}
+body #s4-mainarea{
+float:left;
+clear:both;
+}

@@ -1,0 +1,1 @@
+<SPSWC:MySiteCssRegistration ID="CustomMySiteCss" name="custommysites/custommysites.css" runat="server"/>

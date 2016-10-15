@@ -1,0 +1,7 @@
+<asp:Content ContentPlaceHolderId="PortalNamePlaceHolderName" runat="server">
+	<div class="portalname-communitylinkedimage">
+		<a href="/communities">
+			<img src="/_layouts/images/portalname/communityimage.png" width="155" height="80” />
+		</a>
+	</div>
+</asp:Content>

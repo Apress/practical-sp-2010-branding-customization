@@ -1,0 +1,3 @@
+<div id="clientname-footer" class="s4-notdlg">
+	© 2011 eXtream Corporation. 
+</div>

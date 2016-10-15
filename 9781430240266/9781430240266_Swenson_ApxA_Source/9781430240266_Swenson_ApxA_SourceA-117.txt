@@ -1,0 +1,20 @@
+.s4-sn{
+padding: 0px 0px 5px 24px;
+height: 22px;
+border-bottom: 1px solid #91cdf2;
+background-color: #f8fcff;
+}
+.s4-sn li.static > a {     
+padding: 5px 12px;
+color: #3b4f65;    
+font-size: 1.3em; 
+min-height: 17px; 
+}
+.s4-sn li.static > a.selected {
+border: 1px solid #91cdf2;
+border-bottom: white;
+color: #003759;
+background-color: white;
+padding-bottom: 6px;
+padding-top: 4px;
+}

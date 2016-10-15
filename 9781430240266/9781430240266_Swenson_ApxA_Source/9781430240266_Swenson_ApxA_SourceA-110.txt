@@ -1,0 +1,9 @@
+.ms-profileasseenby{
+background: url(/_layouts/images/asSeenBy_bg.png) repeat-x left bottom;
+border: 1px solid #aaafbe; 
+border-top: none;
+color: #3b4652;
+vertical-align: middle;
+padding-left: 24px;
+line-height: 21px;     
+}

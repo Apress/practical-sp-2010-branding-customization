@@ -1,0 +1,10 @@
+.s4-toplinks .s4-tn a.selected{
+border-color:#91cdf2;
+border-bottom-color:#addbf7;
+border-top-color:#c6e5f8;
+background:url("/_layouts/images/selbg.png") repeat-x left top;
+background-color:#ccebff;
+color:#003759;
+padding:4px 5px;
+margin:0px 5px;
+}

@@ -1,0 +1,12 @@
+.ms-welcomeMenu .ms-menu-a{
+margin-right:5px;
+}
+.ms-welcomeMenu a:link{
+color:#fff;
+}
+.ms-welcomeMenu a:hover{
+text-decoration:none !important;
+}
+.ms-welcomeMenu.ms-SpLinkButtonActive a:link{
+color:#fff;
+}

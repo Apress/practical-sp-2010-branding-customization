@@ -1,0 +1,21 @@
+.ms-postcalendardateboxbottom{
+width:75px;
+max-width:75px;
+min-height:38px;
+padding:4px 0px 2px 0px;
+border:1px solid;
+border-color:#c1c7cd #9ea3a8 #91959a #c1c7cd;
+border-top-style:hidden;
+font:1.1em verdana;
+color:#65686b;
+background:#f1f1f1 url("/_layouts/images/calMainBkgd.png") repeat-x bottom left;
+margin-right:7px;
+font:1.1em verdana;
+word-wrap:break-word;
+text-align:center;
+color:#65686b;
+word-spacing:10em;
+line-height:1.3em;
+display:table;
+table-layout:fixed;
+}

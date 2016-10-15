@@ -1,0 +1,5 @@
+.srch-Icon img{
+width:16px;
+float:left;
+vertical-align:bottom;
+}

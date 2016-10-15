@@ -1,0 +1,4 @@
+.srchctr_leftcell{
+vertical-align:top;
+width:175px;
+}

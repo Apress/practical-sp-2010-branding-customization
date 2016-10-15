@@ -1,0 +1,3 @@
+<div class="portalname-searchresults">
+	<asp:ContentPlaceHolder id="PlaceHolderTitleBreadcrumb" runat="server" />
+</div>

@@ -1,0 +1,9 @@
+.ms-socialNotif-groupSeparator{
+display:inline-block;
+height:60px;
+position:relative;
+top:4px;
+margin:0px 3px;
+border-right:1px solid;
+border-right-color:#e7e7e8;
+}

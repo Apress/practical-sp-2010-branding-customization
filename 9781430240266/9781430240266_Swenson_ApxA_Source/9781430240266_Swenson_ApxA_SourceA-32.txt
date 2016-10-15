@@ -1,0 +1,6 @@
+body #s4-titlerow{
+display:block !important;
+}
+.ms-titlerowborder{
+border-right:1px solid #b8babd;
+}

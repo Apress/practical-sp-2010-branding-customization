@@ -1,0 +1,12 @@
+.ms-dlgTitleText{
+font-family:Verdana;
+font-size:1.3em;
+line-height:1.2;
+font-weight:normal;
+padding-left:10px;
+padding-top:7px;
+color:#ffffff;
+float:left;
+overflow:hidden;
+text-overflow:ellipsis;
+}

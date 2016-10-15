@@ -1,0 +1,11 @@
+.s4-tn ul.dynamic{
+background-color:white;
+border:1px solid #D9D9D9;
+}
+.menu ul.dynamic{
+position:absolute;
+left:-999em;
+}
+.menu span.dynamic, .menu a.dynamic{
+min-width:150px;
+}

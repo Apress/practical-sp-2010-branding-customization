@@ -1,0 +1,23 @@
+.ms-sctabcf{
+font-family:verdana,tahoma,sans-serif;
+font-size:1em;
+padding:0 10px;vertical-align:middle;
+font-style:normal;
+font-weight:normal;
+}
+.ms-sctabcn{
+font-family:verdana,tahoma,sans-serif;
+font-size:1em;
+padding:0 10px;
+font-style:normal;
+font-weight:normal;
+vertical-align:middle;
+color:#003759;
+background:url("/_layouts/images/selbg.png") repeat-x left top;
+background-color:#ccebff;
+border-top:solid 1px #c6e5f8;
+border-right:solid 1px #91cdf2;
+border-left:solid 1px #91cdf2;
+border-bottom:solid 1px #91cdf2;
+height:23px;
+}

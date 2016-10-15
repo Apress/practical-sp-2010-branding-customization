@@ -1,0 +1,13 @@
+body #pageStatusBar{
+display:none;
+border-style:solid;
+border-width:1px 0px;
+padding:4px 5px 5px 10px;
+font-family:verdana;
+font-size:1em;
+}
+.s4-status-s1{
+background:#c9d7e6 url("/_layouts/images/bgximg.png") repeat-x -0px -209px;
+color:#3b4652;
+border-color:#aaafbe;
+}

@@ -1,0 +1,5 @@
+td.ms-addnew{
+padding-left:10px;
+padding-right:7px;
+padding-top:9px;
+}

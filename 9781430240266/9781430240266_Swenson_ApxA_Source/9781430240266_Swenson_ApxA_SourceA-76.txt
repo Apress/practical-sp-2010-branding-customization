@@ -1,0 +1,5 @@
+/* Inline CSS on fgimg.png IMG */
+left: 0px !important; 
+top: 0px !important;
+border: none; 
+position: absolute;

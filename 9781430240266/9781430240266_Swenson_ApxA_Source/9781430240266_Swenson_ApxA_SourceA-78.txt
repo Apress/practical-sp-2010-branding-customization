@@ -1,0 +1,9 @@
+.s4-ca{
+background:#fff;
+margin-left:155px;
+margin-right:0px;
+min-height:324px;
+}
+body #MSO_ContentTable{
+position:relative;
+}

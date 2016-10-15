@@ -1,0 +1,19 @@
+.ms-siteactionsmenuinner,.ms-siteactionsmenuhover{
+border-width:1px;
+border-style:solid;
+margin-right:3px;
+padding:3px 4px 0px 2px;
+height:18px;
+display:inline-block;
+font-family:"Segoe UI",Tahoma,Verdana,sans-serif;
+}
+.ms-siteactionsmenuinner{
+border-color:#21374C;
+border-top-color:#394f63;
+background:url("/_layouts/images/bgximg.png") repeat-x -0px -467px;
+background-color:#21374c;
+}
+.v4master .ms-siteactionsmenuinner{
+border-color:transparent;
+background:transparent none no-repeat;
+}

@@ -1,0 +1,7 @@
+.s4-rp{
+float:right;
+padding:2px 10px 2px 5px;
+}
+.s4-search{
+padding:0px !important;
+}

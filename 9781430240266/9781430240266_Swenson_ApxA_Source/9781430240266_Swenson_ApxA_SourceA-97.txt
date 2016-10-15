@@ -1,0 +1,5 @@
+.ms-dlgTitleBtns{
+float:right;
+padding-top:2px;
+padding-right:2px;
+}

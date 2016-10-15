@@ -1,0 +1,8 @@
+.ms-menuitemdescription{
+color:#545454;
+}
+div.ms-MenuUIPopupScreen div.ms-MenuUIPopupInner ul.ms-MenuUIUL a span.ms-menuitemdescription{
+color:#4c535c;
+font-weight:normal;
+white-space:normal !important;
+}

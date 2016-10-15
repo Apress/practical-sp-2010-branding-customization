@@ -1,0 +1,5 @@
+.ms-WPHeaderTdSelection{
+width:21px;
+cursor:auto;
+text-align:center;
+}

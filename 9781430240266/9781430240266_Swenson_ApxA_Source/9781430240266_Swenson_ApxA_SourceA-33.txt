@@ -1,0 +1,10 @@
+.s4-title{
+padding:0px 0px 0px 10px;
+margin:0px;
+min-height:64px;
+background:url("/_layouts/images/bgximg.png") repeat-x -0px -1023px;
+background-color:#f9f9f9;
+word-wrap:break-word;
+-ms-word-wrap:break-word;
+overflow-x:hidden;
+}

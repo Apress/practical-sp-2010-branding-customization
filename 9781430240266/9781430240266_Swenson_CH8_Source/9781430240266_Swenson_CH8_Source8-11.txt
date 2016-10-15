@@ -1,0 +1,6 @@
+.s4-socialdata-notif{
+vertical-align: top;
+}
+.ms-mini-socialNotif-Container{
+width: 50px;
+}

@@ -1,0 +1,14 @@
+.ms-searchref-main{
+width:175px;
+height:100%;
+font-size:1em;
+font-family:verdana,tahoma,sans-serif !important;
+padding:7px 0 5px;
+margin:0;
+background-color:#fcfcfc;
+border:1px solid #dbddde;
+border-width:0 0 1px;
+background-image:url("/_layouts/images/vertical_refinement_gradient.png");
+background-repeat:repeat-y;
+background-position:right;
+}

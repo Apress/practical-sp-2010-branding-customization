@@ -1,0 +1,4 @@
+.ms-cui-topBar2{
+border-bottom:1px solid #cad2db;
+height:43px;
+}

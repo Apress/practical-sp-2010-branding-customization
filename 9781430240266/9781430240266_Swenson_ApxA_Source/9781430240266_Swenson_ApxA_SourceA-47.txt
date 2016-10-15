@@ -1,0 +1,8 @@
+body #s4-topheader2{
+background:url("/_layouts/images/selbg.png") repeat-x left top;
+background-color:#f6f6f6;
+vertical-align:middle;
+min-height:25px;
+border-top:1px solid #e0e0e0;
+border-bottom:1px solid #b8babd;
+}

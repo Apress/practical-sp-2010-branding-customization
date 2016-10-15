@@ -1,0 +1,4 @@
+body #s4-leftpanel{
+width:155px;
+float:left;
+}

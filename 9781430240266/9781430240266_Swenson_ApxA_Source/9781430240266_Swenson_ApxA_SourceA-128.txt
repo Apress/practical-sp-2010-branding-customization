@@ -1,0 +1,4 @@
+.srch-results{
+padding-left:24px;
+max-width:630px;
+}

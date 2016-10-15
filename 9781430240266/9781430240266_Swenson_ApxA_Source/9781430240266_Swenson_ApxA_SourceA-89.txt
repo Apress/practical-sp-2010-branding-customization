@@ -1,0 +1,4 @@
+.ms-partline{
+height:3px;
+border-bottom:1px solid #EBEBEB;
+}

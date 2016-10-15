@@ -1,0 +1,3 @@
+.s4-toplinks{
+padding:0px;
+}

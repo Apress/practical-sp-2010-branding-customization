@@ -1,0 +1,9 @@
+ForEach ($site in Get-SPSite http://sitename)
+{
+ ForEach ($web in $Site.AllWebs)
+  {
+    $web.MasterUrl  = "/_catalogs/masterpage/portalname_main.master";
+    $web.CustomMasterUrl = "/_catalogs/masterpage/portalname_main.master";  
+    $web.update()
+  }
+}

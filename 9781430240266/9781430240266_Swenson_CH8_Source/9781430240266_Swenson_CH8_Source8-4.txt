@@ -1,0 +1,6 @@
+.ms-dlgOverlay{
+filter:alpha(opacity=60);
+-ms-filter:"alpha(opacity=60)";
+opacity:0.6;
+background-color:#030;
+}

@@ -1,0 +1,7 @@
+.s4-titletable{
+border:0px;
+height:64px;
+width:100%;
+font-family:Verdana,Arial,sans-serif;
+font-size:8pt;
+}

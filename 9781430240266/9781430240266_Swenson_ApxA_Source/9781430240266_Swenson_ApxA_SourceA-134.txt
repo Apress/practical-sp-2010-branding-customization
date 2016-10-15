@@ -1,0 +1,10 @@
+.srch-federationarea{
+background:#fcfcfc;
+border:solid #dbddde;
+border-top-width:0;
+border-right-width:0;
+border-bottom-width:1px;
+border-left-width:1px;
+padding:0 0 5px;
+float:right;
+}

@@ -1,0 +1,4 @@
+.ms-PartSpacingVertical{
+font-size:1pt;
+margin-top:12px;
+}
